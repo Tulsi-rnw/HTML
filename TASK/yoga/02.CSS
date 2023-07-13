@@ -1,0 +1,20 @@
+
+a{
+    color: green;
+    text-decoration: none;
+}
+h1{
+    color: green;
+}
+h3{
+    color: green;
+}
+
+caption{
+    font-size: 100px;
+}
+div{
+    background-color:beige;
+    height: 30px;
+    width: 1280px;
+}
